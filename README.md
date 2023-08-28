@@ -177,6 +177,7 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 ## Contact
 
-[@anilsenay](https://twitter.com/anilsenay)
+Project Link: [https://github.com/charles0830/next-e-commerce](https://github.com/charles0830/next-e-commerce)
 
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+
