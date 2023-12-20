@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/anilsenay/next-e-commerce">
+  <a href="https://github.com/charles0830/next-e-commerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
   </a>
 
@@ -12,12 +12,7 @@
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
     <br />
     <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
-  </p>
+    <a href="mailto:chberry830@gmail.com">Contact me</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -102,7 +97,7 @@ I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9
 2. Clone the repo and change the directory
 
 ```sh
-git clone https://github.com/anilsenay/next-e-commerce.git
+git clone https://github.com/charles0830/next-e-commerce.git
 cd next-e-commerce
 ```
 
